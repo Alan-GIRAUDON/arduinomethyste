@@ -5,7 +5,7 @@
 Arduinomethyste is a printed circuit board (PCB) based on the ATMega328PB from Atmel. It is the more recent version of the ATMega328P used in the Arduino Uno. The goal of this project is to design a minimalist but functional board compatible with the Arduino framework.
 
 
-## Schematics and PCB drawings
+## Schematics
 
 ![schematics](./arduinomethyste.svg)
 
